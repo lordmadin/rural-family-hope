@@ -3373,7 +3373,7 @@ body .btn-twentySix:hover:after {top: 0; left: 0;}
 }
 /*^^^^^^^^^^^^^^^^^^^^^ Theme Hero Banner Five ^^^^^^^^^^^^^^^^^^^^^^^^*/
 .hero-banner-five {
-  background: url(../images/assets/hero_02.png) no-repeat center bottom;
+  background: url(../images/assets/hero_01.jpg) no-repeat center bottom;
   background-size: cover;
   z-index: 1;
   padding: 300px 0 300px;
